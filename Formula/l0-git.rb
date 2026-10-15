@@ -11,23 +11,23 @@ class L0Git < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/fabriziosalmi/l0-git/releases/download/v0.3.2/lgit-darwin-arm64.tar.gz"
-      sha256 "1f46abfc5ae2d6dbc808670474e66c0b00cf45ba9a281505ffc10aee7c309e0a"
+      url "https://github.com/fabriziosalmi/l0-git/releases/download/v0.3.3/lgit-darwin-arm64.tar.gz"
+      sha256 "75e11f8929e8280b9bf469fae1162c62480e0071c4103e5be34ab5e10dcd4d02"
     end
     on_intel do
-      url "https://github.com/fabriziosalmi/l0-git/releases/download/v0.3.2/lgit-darwin-amd64.tar.gz"
-      sha256 "7d78cec73dfa51e920692ca9efb1155db6a3a1ff4612bb9aea7f61bf507838dd"
+      url "https://github.com/fabriziosalmi/l0-git/releases/download/v0.3.3/lgit-darwin-amd64.tar.gz"
+      sha256 "bf30ca04e5e3385a0729339e4813a8b7a68e94eee7f67e5c526bedb02d80be75"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/fabriziosalmi/l0-git/releases/download/v0.3.2/lgit-linux-arm64.tar.gz"
-      sha256 "ae4cec480367485abb3442edd952ad334b8c9851b3232c54f4d1a4a915fab1b9"
+      url "https://github.com/fabriziosalmi/l0-git/releases/download/v0.3.3/lgit-linux-arm64.tar.gz"
+      sha256 "5fb6d96f99c4791d552c334c282c294bec072b7896e1c422e754a51af32949e4"
     end
     on_intel do
-      url "https://github.com/fabriziosalmi/l0-git/releases/download/v0.3.2/lgit-linux-amd64.tar.gz"
-      sha256 "b1914866f1ac41418feb8f4ccee219a5856ab0764a69e8e2eea220b978fb1751"
+      url "https://github.com/fabriziosalmi/l0-git/releases/download/v0.3.3/lgit-linux-amd64.tar.gz"
+      sha256 "c4274b112bbe2669ce14cf858e476dd15f6c3ac51c3099d6a96470904340a813"
     end
   end
 
