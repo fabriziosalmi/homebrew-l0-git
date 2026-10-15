@@ -1,7 +1,7 @@
 # Homebrew formula for l0-git: deterministic project-hygiene gates.
 #
 # Installs the pre-built release binary as `lgit`. On macOS the binary is
-# signed with a Developer ID and notarized. The version and sha256 lines are
+# signed with a Developer ID and notarized. The url and sha256 lines are
 # bumped by the l0-git release workflow on every stable tag: do not edit them
 # by hand.
 class L0Git < Formula
